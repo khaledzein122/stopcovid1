@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "508793215974",
+    "firebase_url": "https://grokonez-flutter-firebas-4d990.firebaseio.com",
+    "project_id": "grokonez-flutter-firebas-4d990",
+    "storage_bucket": "grokonez-flutter-firebas-4d990.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508793215974:android:8571d1565d617280",
+        "android_client_info": {
+          "package_name": "com.example.flutterfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508793215974-d1cv7imbncb774uki2ra6si0ghhhgcd0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3kEFya64vz8sMGB1DgWg13USVSo5ugsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508793215974-d1cv7imbncb774uki2ra6si0ghhhgcd0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
